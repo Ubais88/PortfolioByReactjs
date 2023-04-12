@@ -4,7 +4,7 @@
         "date": "28/02/2023",
         "title": "TECHY STAR",
         "description": "We are your one and only solution to teach problems you face every day.We are leading tech company whose aim is to incease the problem solving ability in childern",
-        "url": "https://react-js-basic-project-208y54933-ubais2143.vercel.app",
+        "url": "https://reactjs-basic-project.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
       },
   
@@ -12,7 +12,7 @@
         "date": "04/03/2023",
         "title": "VIDEO HUB",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://videohub-using-reactjs.vercel.app/",
+        "url": "https://videohub-using-react-js.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
       },
       {
@@ -27,15 +27,15 @@
         "date": "19/03/2023",
         "title": "REACT CART",
         "description": "A React cart app is an application built using the React JavaScript library that allows users to add and remove products from a shopping cart, the cart total is updated dynamically to reflect the new item.",
-        "url": "https://ub-cart.vercel.app/",
+        "url": "https://ub-cart-reactjs.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
       },
       {
         "date": "24/03/2023",
         "title": "PORTFOLIO",
-        "description": "",
+        "description": "This is my Portfolio project and it include my portfolio and i use Reactjs to create the portfolio and also have a sms facility to me using FireBase.",
         "url": "/",
-        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+        "imgSrc": "https://www.linkpicture.com/q/portfolio_3.png"
       }
     ]
   }

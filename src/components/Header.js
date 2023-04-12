@@ -46,10 +46,10 @@ const NavContent = ({ setMenuOpen }) => (
         Contact
       </a>
     </div>
-    <a href="mailto:moubais2143@gmail.com">
-      <button>Email</button>
+    <a href="https://drive.google.com/file/d/1ALIf5qXEviDoHSho_BkfKoLcjv8TFaGh/view?usp=sharing">
+      <button>Resume</button>
     </a>
-  </>
+  </> 
 );
 
 export default Header;

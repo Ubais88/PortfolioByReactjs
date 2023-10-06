@@ -5,7 +5,7 @@
 
   > section {
     width: 100%;
-
+    // first section
     &:first-of-type {
       padding-left: $p;
 
@@ -84,7 +84,7 @@
         }
       }
     }
-
+    // last section
     &:last-of-type {
       border-top: 1px solid $color6_2;
       display: flex;

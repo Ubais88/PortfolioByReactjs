@@ -25,7 +25,7 @@
   
       {
         "date": "20/02/2023",
-        "title": "REACT CART",
+        "title": "Redux CART",
         "description": "A React cart app is an application built using the React JavaScript library that allows users to add and remove products from a shopping cart, the cart total is updated dynamically to reflect the new item.",
         "url": "https://ub-cart-reactjs.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
@@ -36,6 +36,13 @@
         "description": "This is my Portfolio project and it include my portfolio and i use Reactjs to create the portfolio and also have a sms facility to me using FireBase.",
         "url": "/",
         "imgSrc": "https://www.linkpicture.com/q/portfolio_3.png"
+      },
+      {
+        "date": "01/09/2023",
+        "title": "Rock Paper Scissors Game",
+        "description": "The game is designed for two players, one is you as a player and the other opponent is your computer.Scores of the game are stored in the local storage and scores are not lost on reloading the page",
+        "url": "https://rock-paper-scissor-javascript.vercel.app/",
+        "imgSrc": "https://www.linkpicture.com/q/rock-paper-game.png"
       }
     ]
   }

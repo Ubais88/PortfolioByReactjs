@@ -4,7 +4,7 @@ import Typewriter from "typewriter-effect";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
 import me from "../assets/dp2.png";
 
-const Home = ({ ratio }) => {
+const Home = () => {
   const projectCount = useRef(null);
 
   const animationProjectsCount = () => {
@@ -63,15 +63,13 @@ const Home = ({ ratio }) => {
           <aside>
             <article>
               <p>
-                +
-                {ratio < 2.2 && (
+                +             
                   <motion.span
                     ref={projectCount}
                     whileInView={animationProjectsCount}
                   >
                     15
                   </motion.span>
-                )}
               </p>
               <span>Projects Done</span>
             </article>
